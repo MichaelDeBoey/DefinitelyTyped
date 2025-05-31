@@ -4,16 +4,16 @@
         "lib": [
             "es6"
         ],
-        "strictFunctionTypes": true,
-        "strictNullChecks": true,
         "noImplicitAny": true,
         "noImplicitThis": true,
+        "strictFunctionTypes": true,
+        "strictNullChecks": true,
         "types": [],
         "noEmit": true,
         "forceConsistentCasingInFileNames": true
     },
     "files": [
         "index.d.ts",
-        "hapi__bell-tests.ts"
+        "opossum-prometheus-tests.ts"
     ]
 }
